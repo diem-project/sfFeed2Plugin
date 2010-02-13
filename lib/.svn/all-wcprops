@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/21963/plugins/sfFeed2Plugin/branches/1.2/lib
+END
+sfRss10Feed.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/12914/plugins/sfFeed2Plugin/branches/1.2/lib/sfRss10Feed.class.php
+END
+sfRss201Feed.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/12785/plugins/sfFeed2Plugin/branches/1.2/lib/sfRss201Feed.class.php
+END
+sfFeedPeer.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/21963/plugins/sfFeed2Plugin/branches/1.2/lib/sfFeedPeer.class.php
+END
+sfFeedItem.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/12785/plugins/sfFeed2Plugin/branches/1.2/lib/sfFeedItem.class.php
+END
+sfFeed.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/12785/plugins/sfFeed2Plugin/branches/1.2/lib/sfFeed.class.php
+END
+sfFeedEnclosure.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/12785/plugins/sfFeed2Plugin/branches/1.2/lib/sfFeedEnclosure.class.php
+END
+sfAtom1Feed.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/19431/plugins/sfFeed2Plugin/branches/1.2/lib/sfAtom1Feed.class.php
+END
+sfRss091Feed.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/12785/plugins/sfFeed2Plugin/branches/1.2/lib/sfRss091Feed.class.php
+END
+sfFeedImage.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/12785/plugins/sfFeed2Plugin/branches/1.2/lib/sfFeedImage.class.php
+END
+sfRssFeed.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/15332/plugins/sfFeed2Plugin/branches/1.2/lib/sfRssFeed.class.php
+END

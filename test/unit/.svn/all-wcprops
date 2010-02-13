@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/12913/plugins/sfFeed2Plugin/branches/1.2/test/unit
+END
+sfFeedItemTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/12785/plugins/sfFeed2Plugin/branches/1.2/test/unit/sfFeedItemTest.php
+END
+sfFeedEnclosureTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/12785/plugins/sfFeed2Plugin/branches/1.2/test/unit/sfFeedEnclosureTest.php
+END
+sfFeedTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/12785/plugins/sfFeed2Plugin/branches/1.2/test/unit/sfFeedTest.php
+END
+sfAtom1FeedTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/12911/plugins/sfFeed2Plugin/branches/1.2/test/unit/sfAtom1FeedTest.php
+END
+sfFeedImageTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/12785/plugins/sfFeed2Plugin/branches/1.2/test/unit/sfFeedImageTest.php
+END
+sfRssFeedTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/12787/plugins/sfFeed2Plugin/branches/1.2/test/unit/sfRssFeedTest.php
+END
+sfRss10FeedTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/12913/plugins/sfFeed2Plugin/branches/1.2/test/unit/sfRss10FeedTest.php
+END
